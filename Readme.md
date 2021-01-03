@@ -1,3 +1,5 @@
+#### 这个是 Jiansheng 发给我的，但是其实是 汇丰的列表。先用着吧.
+
 #### My YouTube Channel: [LeetCode Daily Live Coding and Interpretation](https://docs.google.com/spreadsheets/d/1kBGyRsSdbGDu7DzjQcC-UkZjZERdrP8-_QyVGXHSrB8/edit#gid=0)
 
 #### My LeetCode Daily Problem & Contest Group: [See rules and score board here](https://wisdompeak.github.io/lc-score-board/)
